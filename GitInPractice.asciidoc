@@ -1,1 +1,3 @@
-Iniciando os trabalhos nesse livro!
+Iniciando os trabalhos nesse texto!
+
+-- Adicionando uma piadinha.
