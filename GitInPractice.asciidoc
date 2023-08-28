@@ -2,3 +2,5 @@ Iniciando os trabalhos nesse texto!
 
 -- Adicionando uma piadinha.
 -- Seria melhor outro tipo de piada.
+
+-- Essa piada seria aprovada pela edição :)
