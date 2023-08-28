@@ -1,3 +1,5 @@
+Começando o capítulo 1
+
 Iniciando os trabalhos nesse texto!
 
 -- Adicionando uma piadinha.
